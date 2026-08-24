@@ -23,7 +23,7 @@ O VORIXA reúne em uma única plataforma:
 * Área do contador
 * Suporte para múltiplas empresas
 
-🔗 [Conheça o projeto VORIXA](https://github.com/francinaldodev/vorixa-sistema)
+🔗 [Conheça o projeto VORIXA](https://github.com/francinaldodev/vorixa-portfolio)
 
 ## 🛠️ Tecnologias
 
